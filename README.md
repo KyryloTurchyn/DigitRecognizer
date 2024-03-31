@@ -2,7 +2,7 @@
 Digit Recognizer with 0.99892 score (Top 2%) on Kaggle with CNN and augmentation.
 ![image](https://github.com/KyryloTurchyn/DigitRecognizer/assets/64077721/5345efe8-fb7c-465a-8df3-ec008a36d9c5)
 ## Description 
-In this work, the main advantage over other solution options was obtained by using a sophisticated convolutional neural network architecture, data augmentation which resulted in additional X pictures, and concatenation of the regular Kaggle dataset and the MNIST dataset. Callbacks techniques were also applied, to change the learning rate and save the weights of the neural network for later use.
+In this work, the main advantage over other solution options was obtained by using a sophisticated convolutional neural network architecture, data augmentation which resulted in additional ~120 000 pictures, and concatenation of the regular Kaggle dataset and the MNIST dataset. Callbacks techniques were also applied, to change the learning rate and save the weights of the neural network for later use.
 ## Content
 The explanation of the code can be divided into 3 main parts:
 1) Data Preparation
